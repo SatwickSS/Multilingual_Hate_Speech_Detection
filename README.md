@@ -1,1 +1,1 @@
-# Multilingual_Hate_Speech_Detection
+# Multilingual Hate Speech Detection
